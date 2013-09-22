@@ -1,1 +1,4 @@
-texto
+texto creado desde programa nana
+1234567890
+
+desde el terminal de ubuntu :P
